@@ -1,5 +1,5 @@
 # Edge_detection
-[SOLVED] Challenge from Neura Robotics
+[SOLVED] Challenge on edge_detection in ROS
 
 [IMPORTANT] Need to add the robot package which has the robot models and the bag file in the src folder and also have opencv installed in the system for building this project. Not uploaded here due to file size issues. The other dependencies can be found in the ``` CMakeLists.txt ```.
 
