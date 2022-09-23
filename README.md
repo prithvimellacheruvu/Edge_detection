@@ -35,6 +35,6 @@ Nonetheless, I had great fun and a memorable learning experience while working o
 
 ## References
 
-* Computer Vision lecture notes by Prof. Vincent Fremont, ROS & software architeture course by Prof. Gaeten Garcia, ROS - vision, manipulation and sensor based control by Prof. Olivier Kermorgant at Ecole Centrale de Nantes.
+* Computer Vision lectures by Prof. Vincent Fremont, ROS & software architeture course by Prof. Gaeten Garcia, ROS - vision, manipulation and sensor based control by Prof. Olivier Kermorgant at Ecole Centrale de Nantes.
 * ROS & OpenCV documentation
 * Open Source forums on ROS, C++ & OpenCV
