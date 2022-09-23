@@ -1,0 +1,5 @@
+# Input of image 
+sensor_msgs/Image input
+---
+# Output image with edges 
+sensor_msgs/Image output
